@@ -24,11 +24,11 @@ demo
 -Xdoclint:none
 -link
 https://docs.oracle.com/en/java/javase/11/docs/api/
-/home/harvrg/Downloads/demo/BabyNames.java
+/home/harvrg/Downloads/demo/MiniProject.BabyNames.java
 <---- end of javadoc command ---->
-Loading source file /home/harvrg/Downloads/demo/BabyNames.java...
+Loading source file /home/harvrg/Downloads/demo/MiniProject.BabyNames.java...
 Constructing Javadoc information...
-/home/harvrg/Downloads/demo/BabyNames.java:9: error: package org.apache.commons.csv does not exist
+/home/harvrg/Downloads/demo/MiniProject.BabyNames.java:9: error: package org.apache.commons.csv does not exist
 import org.apache.commons.csv.*;
 ^
 1 error
